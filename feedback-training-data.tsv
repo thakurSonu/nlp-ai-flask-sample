@@ -1,0 +1,16 @@
+Text	Result	Result_Label
+ुझे दवाई चाहिए	1	BUY_MEDICINE
+Mze medicine karidna hai	1	BUY_MEDICINE
+medicine Kitne ka hai	1	BUY_MEDICINE
+kitna discount hai medicine par	1	BUY_MEDICINE
+dabae kese kride	1	BUY_MEDICINE
+I want to buy medicine	1	BUY_MEDICINE
+मुझे लैब चाहिए	2	BUY_LAB
+Mze test karidni hai	2	BUY_LAB
+लैब चाहिए	2	BUY_LAB
+ैब book kese kre	2	BUY_LAB
+lab kese book kre	2	BUY_LAB
+I want to buy lab	2	BUY_LAB
+thanks sir	0	GENERAL
+okk	0	GENERAL
+चीयर्स!	0	GENERAL
